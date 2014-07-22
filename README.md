@@ -14,3 +14,5 @@ Frameworks:
 - Seems to need to be configured quite a bit to just use gulp with no grunt deps.
 
 [Totaljs:](http://totaljs.com) Free web application framework for building Web sites and Web applications using JavaScript, HTML and CSS. Node.js (MVC) web application framework
+
+[Feathers:](http://feathersjs.com/) An ultra scalable, feather weight, data oriented framework
