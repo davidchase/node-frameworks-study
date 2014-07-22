@@ -1,6 +1,8 @@
 node-frameworks-study
 =====================
 
+[![Build Status](https://travis-ci.org/davidchase/node-frameworks-study.svg?branch=master)](https://travis-ci.org/davidchase/node-frameworks-study)
+
 Testing out different node frameworks to see which works best
 
 Frameworks:
