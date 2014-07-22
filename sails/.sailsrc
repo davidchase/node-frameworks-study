@@ -1,0 +1,11 @@
+{
+    "generators": {
+        "scope": {
+            "engine": "jade"
+        },
+        "modules": {
+            "new": "sails-generate-new-gulp",
+            "gruntfile": "sails-generate-gulpfile"
+        }
+    }
+}
